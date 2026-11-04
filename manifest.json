@@ -1,0 +1,9 @@
+{
+	"id": "blackcalc",
+	"name": "Blackcalc",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Inline math in your notes, like Apple Notes: type an expression ending with = to see the result, press Tab to insert it. Supports variables.",
+	"author": "Mateus Demarchi Germano",
+	"isDesktopOnly": false
+}
